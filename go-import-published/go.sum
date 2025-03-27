@@ -1,12 +1,2 @@
 github.com/barisbasaran/go-publish-modules/greetings v0.0.1 h1:y6LOXtX0YwLvvNBWYH3+Ws96TGZl0FCkMnhDFx5/xfU=
 github.com/barisbasaran/go-publish-modules/greetings v0.0.1/go.mod h1:/0jm80eao8LEZqteLp3jQlId/7Z+/CcUZv5Kgyx4/xA=
-github.com/barisbasaran/go-ws3 v0.1.0 h1:CuNbj2a+UTSqrBBuazn7K3YlNF8OPR/NiMquCjOaBFY=
-github.com/barisbasaran/go-ws3 v0.1.0/go.mod h1:WgTz6m2kYzHpWGpwFzJ3F+NcTSEUH4uNkRhJtFV61Bc=
-github.com/barisbasaran/go-ws3 v0.1.1 h1:udXMh9fbn7KEq1tBA9MDjvnD+WCw2RtZ9jHKRzqqITY=
-github.com/barisbasaran/go-ws3 v0.1.1/go.mod h1:WgTz6m2kYzHpWGpwFzJ3F+NcTSEUH4uNkRhJtFV61Bc=
-github.com/barisbasaran/go-ws3 v0.1.2 h1:HSn/Qw5+bph635X0G7KJ2rZvD5n+in5UZ3KJOokS4TI=
-github.com/barisbasaran/go-ws3 v0.1.2/go.mod h1:WgTz6m2kYzHpWGpwFzJ3F+NcTSEUH4uNkRhJtFV61Bc=
-github.com/barisbasaran/pubmodule v0.1.0 h1:JmipRLHKLPAUWS1zfRZV5i9kX19O0vUOx2g4W6iq4Fs=
-github.com/barisbasaran/pubmodule v0.1.0/go.mod h1:eHaQgEdUFg61XPB9gOtUaYmHeSFVESZWFQN5UgEQM4A=
-golang.org/x/example/hello v0.0.0-20241216154601-40afcb705d05 h1:rFCWdpy7W0sSM+IkJdx4/mLt+RPA6p1T5W3dL+Jjq0o=
-golang.org/x/example/hello v0.0.0-20241216154601-40afcb705d05/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=
