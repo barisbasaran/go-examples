@@ -1,14 +1,12 @@
 package main
 
 import (
+	"example.com/goodbye"
 	"fmt"
-	"github.com/barisbasaran/go-ws3/greetings"
-	"github.com/barisbasaran/pubmodule"
-	"golang.org/x/example/hello/reverse"
+	"github.com/barisbasaran/go-publish-modules/greetings"
 )
 
 func main() {
-	fmt.Println(reverse.String("Hello"), reverse.Int(24601))
-	fmt.Println(pubmodule.Goodbye())
+	fmt.Println(goodbye.Goodbye())
 	fmt.Println(greetings.Hello("Baris"))
 }
